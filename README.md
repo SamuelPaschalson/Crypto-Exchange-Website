@@ -11,6 +11,11 @@
 <br />
 
 
+### Thumbnail
+
+![Thumbnail](thumb_prev.jpg)
+
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
