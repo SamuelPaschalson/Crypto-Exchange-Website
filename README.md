@@ -41,7 +41,3 @@ git clone https://github.com/SamuelPaschalson/Crypto-Exchange-Website.git
 ### Contact
 
 If you want to contact with me you can reach me at [WhatsApp](https://wa.me/2348182540860?text=Hi%20am%20)
-
-### License
-
-This project is **not free to use** and contains license.
